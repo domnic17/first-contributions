@@ -317,6 +317,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [David Gallivan](https://github.com/davidgallivan23)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
+- Nick17
 - [Kersh]
   Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
